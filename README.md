@@ -20,10 +20,10 @@ I’m continuously solving new problems and adding their solutions here.
 
 | Difficulty | Solved |     Goal |
 | ---------- | -----: | -------: |
-| 🟢 Easy    |      1 |     100+ |
+| 🟢 Easy    |      2 |     100+ |
 | 🟡 Medium  |      0 |     100+ |
 | 🔴 Hard    |      0 |      25+ |
-| **Total**  |  **1** | **225+** |
+| **Total**  |  **2** | **225+** |
 
 > 🔄 The tracker will be updated as new problems are solved.
 
